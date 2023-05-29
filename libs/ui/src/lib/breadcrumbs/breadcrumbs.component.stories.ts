@@ -8,6 +8,7 @@ export default {
   parameters: { notes },
   args: {
     breadcrumbLabels: ['Avaleht', 'Abiellumine', 'Avalduse esitamine'],
+    breadcrumbLinks: ['https://www.google.com/', 'https://www.yahoo.com/', 'https://www.bing.com/']
   },
 } as Meta<BreadcrumbsComponent>;
 
@@ -15,7 +16,7 @@ const Template: Story<BreadcrumbsComponent> = (args: BreadcrumbsComponent) => ({
   props: args,
   /* template */
   template: `
-    <cvi-ng-breadcrumbs [breadcrumbLabels]="breadcrumbLabels"></cvi-ng-breadcrumbs>
+    <cvi-ng-breadcrumbs [breadcrumbLabels]="breadcrumbLabels" [breadcrumbLinks]="breadcrumbLinks"></cvi-ng-breadcrumbs>
   `,
 });
 
@@ -30,6 +31,7 @@ const TemplateWithIcon: Story<BreadcrumbsComponent> = (
   template: `
     <cvi-ng-breadcrumbs
         [breadcrumbLabels]="breadcrumbLabels"
+        [breadcrumbLinks]="breadcrumbLinks"
         [iconName]="iconName">
     </cvi-ng-breadcrumbs>
   `,

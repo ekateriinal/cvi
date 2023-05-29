@@ -14,6 +14,7 @@ import { CviIconName } from '@egov/cvi-icons';
 })
 export class BreadcrumbsComponent {
   @Input() breadcrumbLabels!: string[];
+  @Input() breadcrumbLinks!: string[];
 
   /** Name of an icon in front of breadcrumb */
   @Input() iconName: CviIconName | null = null;
