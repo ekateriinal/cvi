@@ -2,6 +2,33 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [1.8.1](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/styles-1.8.0...styles-1.8.1) (2023-05-22)
+
+
+### Bug Fixes
+
+* **react:** package build ([#106](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/106)) ([9183bff](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/9183bfff4ecd33d0ef72771ae10136b985567d5d))
+
+
+
+# [1.8.0](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/styles-1.7.1...styles-1.8.0) (2023-05-10)
+
+
+### Features
+
+* **all:** added automated accessibility testing on local and CI integration ([#61](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/61)) ([0b26f40](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/0b26f40edb51fac4277423a7cd02350167afe68c))
+
+
+
+## [1.7.1](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/styles-1.7.0...styles-1.7.1) (2023-05-04)
+
+
+### Bug Fixes
+
+* **styles:** fix select component loading spinner animation ([#95](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/95)) ([97fb3d2](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/97fb3d29427cc54554bcf98a412a746d17ef055d))
+
+
+
 # [1.7.0](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/styles-1.6.0...styles-1.7.0) (2023-04-21)
 
 

@@ -2,6 +2,33 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [1.6.1](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/storybook-1.6.0...storybook-1.6.1) (2023-05-22)
+
+
+### Bug Fixes
+
+* **react:** package build ([#106](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/106)) ([9183bff](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/9183bfff4ecd33d0ef72771ae10136b985567d5d))
+
+
+
+# [1.6.0](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/storybook-1.5.0...storybook-1.6.0) (2023-05-22)
+
+
+### Features
+
+* **react:** add component lib base ([#102](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/102)) ([0d56a8a](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/0d56a8ac90746add2f07449dcfee991e3e678e36))
+
+
+
+# [1.5.0](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/storybook-1.4.0...storybook-1.5.0) (2023-05-10)
+
+
+### Features
+
+* **all:** added automated accessibility testing on local and CI integration ([#61](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/61)) ([0b26f40](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/0b26f40edb51fac4277423a7cd02350167afe68c))
+
+
+
 # [1.4.0](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/storybook-1.3.0...storybook-1.4.0) (2023-04-14)
 
 

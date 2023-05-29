@@ -2,6 +2,69 @@
 
 This file was generated using [@jscutlery/semver](https://github.com/jscutlery/semver).
 
+## [1.12.1](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/ui-1.12.0...ui-1.12.1) (2023-05-22)
+
+
+### Bug Fixes
+
+* **react:** package build ([#106](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/106)) ([9183bff](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/9183bfff4ecd33d0ef72771ae10136b985567d5d))
+
+
+
+# [1.12.0](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/ui-1.11.1...ui-1.12.0) (2023-05-22)
+
+
+### Features
+
+* **react:** add component lib base ([#102](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/102)) ([0d56a8a](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/0d56a8ac90746add2f07449dcfee991e3e678e36))
+
+
+
+## [1.11.1](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/ui-1.11.0...ui-1.11.1) (2023-05-10)
+
+
+### Bug Fixes
+
+* enforce minimum peer dependency versions EBS-699 ([#99](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/99)) ([ca33d32](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/ca33d321f2b66b53f4740ef64da17697d70da463))
+
+
+
+# [1.11.0](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/ui-1.10.1...ui-1.11.0) (2023-05-10)
+
+
+### Features
+
+* **all:** added automated accessibility testing on local and CI integration ([#61](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/61)) ([0b26f40](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/0b26f40edb51fac4277423a7cd02350167afe68c))
+
+
+
+## [1.10.1](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/ui-1.10.0...ui-1.10.1) (2023-05-09)
+
+
+### Bug Fixes
+
+* **ng:** improve change detection inside tab component EBS-335 STPA-245 ([#96](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/96)) ([30f74a0](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/30f74a0661897ec671e6db4f69aa4fa0160fcb04))
+
+
+
+# [1.10.0](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/ui-1.9.2...ui-1.10.0) (2023-05-09)
+
+
+### Features
+
+* **ui:** add sorting to select component ([#97](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/97)) ([f3360e4](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/f3360e43157ee3f91310b35c2c13e9a9ce43eb4d))
+
+
+
+## [1.9.2](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/ui-1.9.1...ui-1.9.2) (2023-05-04)
+
+
+### Bug Fixes
+
+* **ng:** select options using setter instead of onChanges lifecycle EBS-348, STPA-247 ([#94](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/issues/94)) ([79eeacf](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/commits/79eeacfff7ba996bff6744b0bde85df43a62d6c6))
+
+
+
 ## [1.9.1](https://bitbucket.ria.ee/scm/gh/e-gov-cvi/compare/ui-1.9.0...ui-1.9.1) (2023-04-24)
 
 
