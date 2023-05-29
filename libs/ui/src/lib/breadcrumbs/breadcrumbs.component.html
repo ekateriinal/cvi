@@ -7,6 +7,9 @@
   <ul class="cvi-breadcrumbs__items" role="navigation">
     <li *ngFor="let label of breadcrumbLabels; let lastIndex = last; index as index" class="cvi-breadcrumbs__item">
       <a class="cvi-breadcrumbs__item-link" (click)="breadcrumbChange.emit(index)" [href]="index > 0 ? breadcrumbLinks[index] : ''" 
+        [attr.aria-current]="lastIndex ? 'page' : null">
+        {{ label }}
+      </a>
     </li>
   </ul>
 </cvi-ng-track>
