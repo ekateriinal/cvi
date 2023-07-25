@@ -71,6 +71,7 @@
     #{$base}__title-text {
       font-size: get-font-size(200);
       margin-left: 10px;
+      padding-right: var(--cvi-spacing-rapla);
     }
 
     #{$base}__close-button {
